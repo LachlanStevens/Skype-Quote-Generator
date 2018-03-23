@@ -1,0 +1,9 @@
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\bin\Debug\SkypeQuoteGenerator.exe.config
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\bin\Debug\SkypeQuoteGenerator.exe
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\bin\Debug\SkypeQuoteGenerator.pdb
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Debug\SkypeQuoteGenerator.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Debug\SkypeQuoteGenerator.Form1.resources
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Debug\SkypeQuoteGenerator.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Debug\SkypeQuoteGenerator.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Debug\SkypeQuoteGenerator.exe
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Debug\SkypeQuoteGenerator.pdb

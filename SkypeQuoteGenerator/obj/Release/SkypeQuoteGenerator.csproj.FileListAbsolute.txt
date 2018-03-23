@@ -1,0 +1,18 @@
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\bin\Release\SkypeQuoteGenerator.exe.config
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\bin\Release\SkypeQuoteGenerator.exe
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\bin\Release\SkypeQuoteGenerator.pdb
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.Form1.resources
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.exe
+d:\documents\visual studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.pdb
+D:\Documents\Visual Studio 2013\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.csprojResolveAssemblyReference.cache
+D:\Documents\Google Drive\Work\OldProjects\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\bin\Release\SkypeQuoteGenerator.exe.config
+D:\Documents\Google Drive\Work\OldProjects\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.exe
+D:\Documents\Google Drive\Work\OldProjects\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.pdb
+D:\Documents\Google Drive\Work\OldProjects\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\bin\Release\SkypeQuoteGenerator.exe
+D:\Documents\Google Drive\Work\OldProjects\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\bin\Release\SkypeQuoteGenerator.pdb
+D:\Documents\Google Drive\Work\OldProjects\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.csprojResolveAssemblyReference.cache
+D:\Documents\Google Drive\Work\OldProjects\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.Form1.resources
+D:\Documents\Google Drive\Work\OldProjects\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.Properties.Resources.resources
+D:\Documents\Google Drive\Work\OldProjects\Projects\SkypeQuoteGenerator\SkypeQuoteGenerator\obj\Release\SkypeQuoteGenerator.csproj.GenerateResource.Cache
